@@ -1,0 +1,53 @@
+:root{
+    font-family: 'Roboto', sans-serif;
+    font-size: 21px;
+    font-weight: 500;
+    text-align: left;
+    width: 883px;
+    line-height: 1.61;
+}
+
+.title{
+ font-weight: 900;
+ font-size: 89px;
+ line-height: 79px;
+ color: #ffb300;
+ margin-top: 30px;
+ margin-bottom: 30px;
+}
+
+.autor{
+    font-weight: 700;
+    font-size: 21px;
+    color: black;
+    text-align: right;
+}
+p, li{
+    font-size: 21px;
+    font-weight: 500;
+    line-height: 1.61;
+    color: black;
+    text-align: justify;
+}
+
+hr{
+    margin-top: 34px;
+    margin-bottom: 34px;
+    border: 2px solid gray;
+}
+
+h2{
+    font-size: 34px;
+    color: #FFB300;
+    font-weight: bold;
+}
+
+span{
+    font-weight: 700;
+}
+
+a{
+    font-size: 21px;
+    font-weight: 900;
+    color: #0037b3;
+}
